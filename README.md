@@ -5,5 +5,5 @@ The file "ArabicToEnglishDatasetGenerator.ipynb" will translate the reviews from
 "ArabicEnglishSentimentAnalysisUsingLSTM.ipynb" will use English reviews from "ArabicToEnglishDatasetTwoClass.xlsx" to train the model and produce results.
 The remaining 'xlsx' files have been generated from the proposed model.
 The application 'ArabicSentimentAnalysisUsingLSTM.ipynb' generated the trained model 'ArabicModel.h5', and the application 'ArabicEnglishSentimentAnalysisUsingLSTM.ipynb' generated the trained model 'ArabicEnglishModel.h5'. 
-Two graphical user applications have been created, named 'ArabicModel-TestData-Tkinter.ipynb' and 'ArabicEnglishModel-TestData-Tkinter.ipynb', both of which utilized 'ArabicModel.h5' and 'ArabicEnglishModel.h5', respectively. 
+Two graphical user applications have been created, named 'ArabicModel-TestData-Tkinter.ipynb' and 'ArabicEnglishModel-TestData-Tkinter.ipynb', both of which utilized 'ArabicModel.h5' and 'ArabicEnglishModel.h5' (stored in TrainedModels.zip), respectively. 
 Now, these two applications are available for professional use.
